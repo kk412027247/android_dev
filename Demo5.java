@@ -25,8 +25,39 @@ public class Demo5{
     // int i = reader.nextInt();
     // System.out.println(i);
 
-    int i =12;
-    System.out.printf("i is %d",i);
+//    int i =12;
+//    System.out.printf("i is %d",i);
+
+
+//    Scanner reader = new Scanner(System.in);
+//    System.out.println("please input int");
+//    int input = reader.nextInt();
+//    switch(input){
+//      case 1:
+//        System.out.println("you input 1");
+//        break;
+//
+//      case 2:
+//        System.out.println("you input 1");
+//        break;
+//
+//      default:
+//        System.out.println("you input other");
+//    }
+
+//    for (int i=0; i<10; i++){
+//      System.out.println(i);
+//    }
+  int i = 0;
+//  while(i<10){
+//    System.out.println(i);
+//    i++;
+//  }
+
+  do{
+    System.out.println(i);
+    i++;
+  }while(i<10);
 
 
   }
