@@ -11,3 +11,6 @@ public class Demo18{
         System.out.println(people.computerArea(ladder));
     }
 }
+
+
+
