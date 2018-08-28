@@ -15,7 +15,8 @@ public class Demo23 {
 		person.height = 190;
 		person.showBodyMess();
 		person.mustDoingthing();
-		person.speakChinese();
+		
+		
 	}
 
 }
