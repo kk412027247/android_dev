@@ -1,8 +1,6 @@
 
-public class Car {
+public abstract class Car {
 	
-	void cautionSound() {
-		
-	}
+	abstract void cautionSound();
 
 }
