@@ -10,4 +10,6 @@ public class Tom implements Test {
 		return sum;
 	}
 
+	
+	
 }
