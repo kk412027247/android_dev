@@ -1,10 +1,6 @@
 
 public class Bank implements Runnable {
-
-	
 	int money;
-	
-	
 	public void setMoney(int n) {
 		money = n;
 	}
